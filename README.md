@@ -27,5 +27,5 @@ Energy.py: anomaly energy consumption trend detection
 meterEnergy.html: energy consumption data from 60 meters (filtered by 200 meters)
 meterEnergy_anomaly.html: with anomaly indicators
 meterEnergy_anomaly_zoom.html: some zoom in vis
-
+Energy.7z: data source
 
